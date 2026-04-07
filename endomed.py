@@ -18,7 +18,7 @@ st.sidebar.image(logo_url3, use_column_width=True, width=800)
 st.image(logo_url, use_column_width=True, width=800)
 
 # Texto de abertura
-abertura = st.write("Hello! I'm EndoMedGuide, an AI-powered virtual assistant developed to support endodontic decision-making, particularly in medication prescribing based on current scientific evidence. To get started, please type "hello" in your native language (for example: Hi, Oi, Hola, Salut, Hallo, 你好, привет), and let me know the patient’s age so we can begin the clinical reasoning process.")
+abertura = st.write("Hello! I'm EndoMedGuide, an AI-powered virtual assistant developed to support endodontic decision-making, particularly in medication prescribing based on current scientific evidence. To get started, please type 'hello' in your native language (for example: Hi, Oi, Hola, Salut, Hallo, 你好, привет), and let me know the patient’s age so we can begin the clinical reasoning process.")
 
 # Título da barra lateral
 st.sidebar.title("References")
