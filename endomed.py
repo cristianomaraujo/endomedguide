@@ -9,7 +9,7 @@ openai.api_key = SENHA_OPEN_AI
 
 
 # URL da imagem do logo no repositório do GitHub
-logo_url = "https://github.com/cristianomaraujo/endomedguide/blob/main/Eng.jpg?raw=true"
+logo_url = "https://github.com/cristianomaraujo/endomedguide/blob/main/Eng.jpeg?raw=true"
 logo_url3 = "https://github.com/cristianomaraujo/endomedguide/blob/main/capa3.jpg?raw=true"
 
 # Exibindo a imagem de logo na barra lateral
